@@ -1,1 +1,1 @@
-vless://08e6e736-e7ec-40b2-a1ba-add1a5911f34@66.33.22.221:15527?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&fp=chrome&host=hostname&mode=auto&path=%2Findex&pbk=_QVRect0MzdVPDEbGD6shJ8lwhhKXEu4dM3JPtSVeQ4&security=reality&sid=d715478da264a4d4&sni=yahoo.com&spx=%2F7070bc848949687&type=xhttp&x_padding_bytes=5-70#VIPcloud
+vless://08e6e736-e7ec-40b2-a1ba-add1a5911f34@66.33.22.221:15527?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#VIPcloud
