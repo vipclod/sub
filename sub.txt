@@ -1,1 +1,1 @@
-vless://08e6e736-e7ec-40b2-a1ba-add1a5911f34@66.33.22.221:15527?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#VIPcloud
+vless://f0e6f23c-9463-4894-ad3f-61713db7fe25@66.33.22.226:35138?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#VIPcloud
